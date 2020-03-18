@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="MyApp.StackLayout">
+    <ContentPage.Content>
+        <Grid BackgroundColor="#127ac7">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="40"></RowDefinition>
+                <RowDefinition Height="40"></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+                <Label Grid.Row="0" 
+                    Text="Welcome to Xamarin"
+                    TextColor="White"
+                    FontSize="30"
+                    FontAttributes="Bold"
+                    HorizontalOptions="Center"/>
+                <Label Grid.Row="0"
+                    Text="Cross-platforms apps made easy"
+                    TextColor="White"
+                    HorizontalOptions="Center"
+                    FontSize="18"/>
+            </StackLayout>
+
+            <Button Padding="10" TextColor="White" BackgroundColor="#1dabf0" Grid.Row="1" Text="Login"/>
+            <Button Padding="10" TextColor="White" BackgroundColor="#1dabf0" Grid.Row="2" Text="Register"/>
+
+            <!--<StackLayout BackgroundColor="#127ac7">-->
+                <!--<StackLayout VerticalOptions="CenterAndExpand" 
+                         HorizontalOptions="Fill"
+                         Spacing="15">
+                    <Label Text="Welcome to Xamarin"
+                    TextColor="White"
+                    FontSize="30"
+                    FontAttributes="Bold"
+                    HorizontalOptions="Center"/>
+                    <Label Text="Cross-platforms apps made easy"
+                    TextColor="White"
+                    HorizontalOptions="Center"
+                    FontSize="18"/>
+                    <Button Text="Login"
+                    BackgroundColor="#1dabf0"
+                    TextColor="White"
+                        Padding="10"/>
+                    <Button Text="Register"
+                    BackgroundColor="#1dabf0"
+                    TextColor="White"/>
+                </StackLayout>-->
+            <!--</StackLayout>-->
+        </Grid>
+        
+    </ContentPage.Content>
+</ContentPage>

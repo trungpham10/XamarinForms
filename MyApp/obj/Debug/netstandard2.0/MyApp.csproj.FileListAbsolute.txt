@@ -1,0 +1,15 @@
+C:\Users\Trung Pham\source\repos\MyApp\MyApp\MyApp\bin\Debug\netstandard2.0\MyApp.deps.json
+C:\Users\Trung Pham\source\repos\MyApp\MyApp\MyApp\bin\Debug\netstandard2.0\MyApp.dll
+C:\Users\Trung Pham\source\repos\MyApp\MyApp\MyApp\bin\Debug\netstandard2.0\ref\MyApp.dll
+C:\Users\Trung Pham\source\repos\MyApp\MyApp\MyApp\bin\Debug\netstandard2.0\MyApp.pdb
+C:\Users\Trung Pham\source\repos\MyApp\MyApp\MyApp\obj\Debug\netstandard2.0\MyApp.csprojAssemblyReference.cache
+C:\Users\Trung Pham\source\repos\MyApp\MyApp\MyApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Trung Pham\source\repos\MyApp\MyApp\MyApp\obj\Debug\netstandard2.0\MyApp.AssemblyInfoInputs.cache
+C:\Users\Trung Pham\source\repos\MyApp\MyApp\MyApp\obj\Debug\netstandard2.0\MyApp.AssemblyInfo.cs
+C:\Users\Trung Pham\source\repos\MyApp\MyApp\MyApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Trung Pham\source\repos\MyApp\MyApp\MyApp\obj\Debug\netstandard2.0\MyApp.dll
+C:\Users\Trung Pham\source\repos\MyApp\MyApp\MyApp\obj\Debug\netstandard2.0\ref\MyApp.dll
+C:\Users\Trung Pham\source\repos\MyApp\MyApp\MyApp\obj\Debug\netstandard2.0\MyApp.pdb
+C:\Users\Trung Pham\source\repos\MyApp\MyApp\MyApp\obj\Debug\netstandard2.0\QuotesPage.xaml.g.cs
+C:\Users\Trung Pham\source\repos\MyApp\MyApp\MyApp\obj\Debug\netstandard2.0\StackLayout.xaml.g.cs
+C:\Users\Trung Pham\source\repos\MyApp\MyApp\MyApp\obj\Debug\netstandard2.0\GridPage.xaml.g.cs
